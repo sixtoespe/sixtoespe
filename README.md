@@ -4,7 +4,8 @@
   <i>Industrial Engineer | Quality Assurance Specialist | ISO 9001:2015 Auditor | Access &amp; VBA Developer | html, css, js, FIGMA, Linux server, Wordpress, JAVA | Mobile app development in process</i>
 </p>
 
-https://github.com/user-attachments/assets/fd1a2266-549c-43de-b4b2-b2d5d9bd3f76
+<img width="720" height="720" alt="gear-code-dark" src="https://github.com/user-attachments/assets/3dd98874-7d92-4aaa-ba91-b6103d789faa" />
+
 
 ## 🚀 About Me
 
