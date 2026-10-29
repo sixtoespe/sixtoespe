@@ -1,7 +1,7 @@
 <!-- GitHub Profile README for Sixto (sixtoespe) -->
 <h1 align="center">Hey there, I'm Sixto 👋</h1>
 <p align="center">
-  <i>Industrial Engineer | Quality Assurance Specialist | ISO 9001:2015 Auditor | Access &amp; VBA Developer</i>
+  <i>Industrial Engineer | Quality Assurance Specialist | ISO 9001:2015 Auditor | Access &amp; VBA Developer | html, css, js, FIGMA, Linux server, Wordpress, JAVA | Mobile app development in process</i>
 </p>
 
 ## 🚀 About Me
