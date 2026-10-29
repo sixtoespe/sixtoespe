@@ -4,7 +4,7 @@
   <i>Industrial Engineer | Quality Assurance Specialist | ISO 9001:2015 Auditor | Access &amp; VBA Developer | html, css, js, FIGMA, Linux server, Wordpress, JAVA | Mobile app development in process</i>
 </p>
 
-<i>![coding-gear](https://github.com/user-attachments/assets/fd1a2266-549c-43de-b4b2-b2d5d9bd3f76)</i>
+https://github.com/user-attachments/assets/fd1a2266-549c-43de-b4b2-b2d5d9bd3f76
 
 ## 🚀 About Me
 
