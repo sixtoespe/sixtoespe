@@ -51,8 +51,7 @@ Tools:       GitHub
 
 <p align="left">
   <a href="https://github.com/sixtoespe" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white"/></a>
-  <!-- TODO: add your LinkedIn URL, then uncomment the line below -->
-  <!-- <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a> -->
+<a href="https://www.linkedin.com/in/sixto-espejo" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
